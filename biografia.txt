@@ -3,3 +3,5 @@ Soy Gerson Samaniego, tengo 40 años y soy un apasionado por la tecnología.
 Soy desarrollador de software desde muy joven. Aprendí a programar a mis 14 años.
 
 Desde entonces me apasiona entender el fondo de todas las cosas en TI (HW+SW)
+
+Estoy aprendiendo git a mis 40 años
